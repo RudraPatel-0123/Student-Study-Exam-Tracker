@@ -1,1 +1,8 @@
-
+{
+    "subjects": {
+        "Maths": {
+            "study_hours": [],
+            "exam_date": null
+        }
+    }
+}
