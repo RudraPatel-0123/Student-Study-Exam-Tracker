@@ -20,3 +20,5 @@ This project demonstrates practical problem-solving using Python and basic data 
 ## How to Run
 1. Make sure Python 3 is installed.
 2. Clone this repository:
+3. Navigate to the project folder:
+4. Run the code
